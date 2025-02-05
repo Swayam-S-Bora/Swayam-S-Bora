@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swayam Singh Bora</h1>
-<h3 align="Left">A passionate developer pursuing B.Tech. in CSE (6th Semester) from Nagpur, India</h3>
+<h3 align="Left">A passionate developer pursuing B.Tech. in CSE from Nagpur, India</h3>
 
 - 🌱 I’m currently working on **developing my skills in Data structures and algorithms (Java)**
 
