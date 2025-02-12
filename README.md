@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack and Machine learning projects**
 
-- 🔭 I'm interested in **Android app development, Data analytics and Machine learning**
+- 🔭 I'm interested in **Data analytics and Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Swayam-S-Bora](https://github.com/Swayam-S-Bora)
 
