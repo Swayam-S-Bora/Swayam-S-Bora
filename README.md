@@ -2,7 +2,7 @@
 🔭 I’m currently working on Full stack and Machine learning projects
 <br>👯 I’m looking to collaborate on Data Science projects
 <br>🌱 I’m currently learning Data Structures and Algorithms
-<br>👨‍💻 All of my projects are available at github.com/Swayam-S-Bora?tab=repositories
+<br>👨‍💻 All of my projects are available at (https://github.com/Swayam-S-Bora?tab=repositories)
 <br>📫 How to reach me: swayam.bora.309@gmail.com
 
 
