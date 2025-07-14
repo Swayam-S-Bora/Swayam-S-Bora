@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I am Swayam Singh Bora
 🔭 I’m currently working on Full stack and Machine learning projects
 <br>👯 I’m looking to collaborate on Data Science projects
 <br>🌱 I’m currently learning Data Structures and Algorithms
