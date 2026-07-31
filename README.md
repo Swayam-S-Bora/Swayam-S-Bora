@@ -62,5 +62,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Swayam-S-Bora&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-![Visitor Count](https://profile-counter.glitch.me/Swayam-S-Bora/count.svg)
